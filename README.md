@@ -1,9 +1,9 @@
 # Vrinda Store Data Analysis
 ## Description
-
+<p align="justify">
 The project aims to create an interactive dashboard for the Vrinda Store using Microsoft Excel. This project aims to gain insights into the operations and performance of the Vrinda Store. It involves the collection, processing, and analysis of data related to various aspects of the store, such as sales, inventory, customer behavior, and market trends in 2022. 
 <br>
-The project will leverage Excel’s advanced features such as PivotTables for summarizing and analyzing data, conditional formatting for highlighting specific data points, and various chart types for visualizing data.The insights derived from this project are expected to drive strategic decision-making, improve operational efficiency, and enhance the overall profitability of the Vrinda Store.
+The project will leverage Excel’s advanced features such as PivotTables for summarizing and analyzing data, conditional formatting for highlighting specific data points, and various chart types for visualizing data.The insights derived from this project are expected to drive strategic decision-making, improve operational efficiency, and enhance the overall profitability of the Vrinda Store.</p>
 
 ## Project Objective
 The aim is to help the owner of the Vrinda Store understand their customers better and increase sales in 2023 by creating an annual sales report for year 2022.
@@ -31,7 +31,7 @@ The aim is to help the owner of the Vrinda Store understand their customers bett
 * What are the best-selling categories?
 
 ## Project Insight
-#### The project provides valuable insights into the store’s performance and operations, such as:
+__The project provides valuable insights into the store’s performance and operations, such as:__
 
 * The store’s sales and orders peaked in December, followed by November and October, due to the festive season and holiday shopping.
 * Women customers accounted for about 65% of the total orders, indicating a higher preference and loyalty for the store’s products.
